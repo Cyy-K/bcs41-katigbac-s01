@@ -1,0 +1,11 @@
+About Me 
+
+I am Cyrus Katigbac, 21 years old and currently a Computer Science student
+at De La Salle University - Dasmarinas. I enjoy playing video games that involves
+strategy. 
+
+My motivation on joining this bootcamp is something that I have wanted for
+a long time. Just as I take the specialization in Game Development at the university,
+I am curious on how games were being developed and I would like to develop an official
+game in the future,
+
