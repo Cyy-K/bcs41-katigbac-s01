@@ -96,4 +96,19 @@ Basic GIT Commands
 	- git init 
 		- git initialization
 			-- used to start a new repository
+
+	- git add . 
+		 - used in Git to stage (preparing for a commit) all changes
+		 in the current directory
+
+	- git commit -m"<commitMessage>"
+		- used in Git to record the changes you've staged(prepared to commit)
+		into the version history of your repo
+
+		-- -m
+			- used to provide commit message that describes the purpose of the
+			commit
+
+			- the commit message helps us and the others to understand the changes
+			made in the commit
 			
