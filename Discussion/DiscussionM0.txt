@@ -111,4 +111,23 @@ Basic GIT Commands
 
 			- the commit message helps us and the others to understand the changes
 			made in the commit
-			
+
+Git Config
+	 - these commands will allow us to have git recognize the person trying 
+	 to push into an online/remote repo
+
+	 - git config --global user.email
+	 "<emailUsedInGitHub>"
+	 	- configure the email used to push into the remote repo
+
+	 - git config --global user.name
+	 "userNameUsedInGitHub"
+	 	- configure the name/username of theh user trying to push 
+	 	into the remote repo
+
+	 To verify 
+	  - git config --global --list
+	  - git config --global --get user.email
+	  - git config --global <emailUsedInGitHub>
+	  - git config --global --get user.name
+
